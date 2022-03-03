@@ -23,8 +23,8 @@ This application generates a random password based on user-selected criteria.
     THEN the password is written to the page.
 
 ## Repository link
-
+https://github.com/FranklynT1/code-gen
 
 
 ## Web Site Link
-
+https://franklynt1.github.io/code-gen/
